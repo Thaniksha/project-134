@@ -1,0 +1,23 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    font-weight:1000;
+    color:rgb(198, 91, 248);
+    font-family: 'Tapestry', cursive;
+    border: double;
+    border-width:10px;
+    border-color: whitesmoke;
+
+}
+.btn{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    background-color: crimson;
+    border-radius: 10px;
+}
+span{
+    color: black;
+    font-size: 18px;
+}
