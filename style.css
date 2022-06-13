@@ -21,3 +21,9 @@ span{
     color: black;
     font-size: 18px;
 }
+canvas{
+    border-radius: 25px;
+    border: double black;
+    box-shadow: 25px 25px 25px rgb(243, 14, 52);
+    border-width: 8px;
+}
